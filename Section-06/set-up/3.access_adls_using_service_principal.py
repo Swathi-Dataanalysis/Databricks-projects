@@ -9,9 +9,9 @@
 
 # COMMAND ----------
 
-client_id = "1aa3a859-5679-4a25-aa21-a84812c9201d"
-tenant_id = "833170bf-cbae-47cb-9c01-ea84140ea4d4"
-client_secret = "BeT8Q~MT4Xdhj3-JZdt3QcvX8_i2BB9R1Ry2rbkB"
+client_id = "YOUR AAD client_id "
+tenant_id = "YOUR AAD tenant_id"
+client_secret = "AAD client_secret"
 
 # COMMAND ----------
 
