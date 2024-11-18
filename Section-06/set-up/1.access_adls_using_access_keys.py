@@ -14,7 +14,7 @@
 
 spark.conf.set(
     "fs.azure.account.key.formula1dlpro2.dfs.core.windows.net",
-    "61ndkNz/tm0BhRekIAwUiXm3/XTkbKW3ixXVYMxl2dY0LSwyxhkm08g6fp80qlcoD+vkNvGU/KoG+ASt4SfR1w==")
+    "#account access key#")
 
 # COMMAND ----------
 
